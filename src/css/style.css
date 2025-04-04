@@ -5,7 +5,7 @@
     height: 400px;
     margin: 500px; 
 } */
-
+/* 
 .teste {
     overflow: hidden;
     border: solid 1px black;
@@ -33,4 +33,50 @@
     height: 110px;
     margin: 5px 8px;
     padding: 6px 9px;
+}
+
+p {
+    display: inline;
+    background-color: teal;
+}
+
+span {
+    display: block;
+    background-color: pink;
+} */
+/* 
+div {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    
+}
+.azul {
+    border: solid 4px teal;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+.amarelo {
+    border-radius: 10px;
+    border: solid 4px hotpink;
+    background-color: pink;
+    position: relative;
+    top: 40px;
+    left: 40px
+} */
+
+div {
+    background-color: hotpink;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px
+}
+.lado {
+    position: relative;
+    margin-left: 350px;
+    background-color: hotpink;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px
+    
 }
