@@ -1,0 +1,15 @@
+div {
+    background-color: yellow;
+
+    width: 400px;
+    height: 250px;
+}
+
+.teste {
+    border: solid 1px black;
+    display: inline-block;
+    font-size: 32px;
+    font-family: Arial;
+    width: 100px;
+    height: 110px;
+}
