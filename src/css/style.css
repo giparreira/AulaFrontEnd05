@@ -1,15 +1,36 @@
-div {
+/* .teste1 {
     background-color: yellow;
-
+    border-radius: 50%;
     width: 400px;
-    height: 250px;
-}
+    height: 400px;
+    margin: 500px; 
+} */
 
 .teste {
+    overflow: hidden;
     border: solid 1px black;
     display: inline-block;
     font-size: 32px;
     font-family: Arial;
     width: 100px;
     height: 110px;
+}
+
+.teste2 {
+    border-top: solid 5px red;
+    border-right: solid 10px cyan;
+    border-bottom: solid 7px green;
+    border-left: solid 12px yellow;
+
+    border-radius: 10px;
+}
+
+.teste3 {
+    overflow: scroll;
+    border: dashed 1px black;
+    font-size: 32px;
+    width: 90px;
+    height: 110px;
+    margin: 5px 8px;
+    padding: 6px 9px;
 }
